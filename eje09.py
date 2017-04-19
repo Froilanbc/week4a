@@ -16,7 +16,7 @@ else:
     factorial = 1
 
     while contador <= n:
-        factorial = 0
+        factorial = 0 # reemplazar esta linea por una expresion correcta.
         contador += 1
 
 print(factorial)

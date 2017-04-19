@@ -16,6 +16,6 @@ while x > 0:
     factor = 10
     suma += x % factor
     x = x // factor
-    factor = factor * 10
+
 print(suma)
 

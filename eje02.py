@@ -11,7 +11,7 @@ suma = 0
 contador = 1
 
 while contador <= n:
-    pass
+    print()
 
 print(suma)
 

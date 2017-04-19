@@ -1,7 +1,6 @@
 """
-Escribir un Programa, que permita, calcular el promedio de un curso en el cual se toman 7 prácticas
-y el programa halle el promedio
-
+Escribir un programa que permita leer 7 valores que representan a las notas de un examen.
+El programa debe calcular el promedio e imprimirlo.
 """
 
 TOTAL_NOTAS = 7

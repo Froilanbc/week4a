@@ -1,5 +1,6 @@
 """
-Escribir una programa donde se ingrese el digito (1 al 9) y que muestre la tabla de multiplicar de un número. Por ejemplo:
+Escribir una programa donde se ingrese un digito del (1 al 9) y que muestre la tabla de multiplicar de dicho número.
+Por ejemplo:
 
 Input: 5
 Output:

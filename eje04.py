@@ -1,8 +1,8 @@
 """
 
-Calcular la sumatorio de los n primeros numeros de la siguiente sumatoria
+Calcular la sumatoria de los n primeros numeros de la siguiente formula
 
-S = Sumatoria de (2*i -2)**2
+S = (2*i -2)**2
 """
 
 n = int(input())
